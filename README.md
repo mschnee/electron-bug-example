@@ -1,4 +1,4 @@
-This projects illustrates a bug in Electron's WebView implementation.  Specifically, the preload JavaScript which is injected before the first page load if lost upon any navigation.
+This projects illustrates a bug in Electron's WebView implementation.  Specifically, the preload JavaScript which is injected before the first page load is lost upon any navigation.
 
 # Setup
 ```
