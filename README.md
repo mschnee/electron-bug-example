@@ -20,9 +20,8 @@ Or you can type `window.location.reload()` in the console.
 In all cases, the output is expected.  
 
 # Information:
-electron-prebuilt 0.31.2
-
-main.js is the standard main process script.
-test.html loads index.js and contains the WebView
-index.js opens the WebView's devtools on the 'dom-ready' event.
-injected.js is the JavaScript we expect to be injected.
+* electron-prebuilt 0.31.2
+* main.js is the standard main process script.
+* test.html loads index.js and contains the WebView
+* index.js opens the WebView's devtools on the 'dom-ready' event.
+* injected.js is the JavaScript we expect to be injected.
