@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "domready": "^1.0.8",
-    "electron-prebuilt": "^0.31.2"
+    "electron-prebuilt": "^0.32.0"
   }
 }
